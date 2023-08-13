@@ -1,1 +1,2 @@
 this is some sample text
+This is text added in 2nd commit
